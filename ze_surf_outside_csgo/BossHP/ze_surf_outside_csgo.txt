@@ -3,17 +3,17 @@
     "0"
     {
         "HP_counter"        "Boss_hp"
-        "HPbar_counter"        "boss_hp_case_counter"
+        "HPbar_counter"     "boss_hp_case_counter"
         "HPinit_counter"    "Boss_hp_add"
-        "HPbar_min"        "0"
-        "HPbar_max"        "3"
-        "HPbar_default"        "0" 
+        "HPbar_min"         "0"
+        "HPbar_max"         "3"
+        "HPbar_default"     "0" 
         "HPbar_mode"        "2"
     }
     "1"
     {
-        "Type"            "breakable"
-        "BreakableName"        "break boss"
+        "Type"              "breakable"
+        "BreakableName"     "break boss"
         "CustomText"        "Trigger Sphere"
     }
 }
