@@ -13,7 +13,7 @@
     "1"
     {
         "Type"              "breakable"
-        "BreakableName"     "break boss"
+        "BreakableName"     "break_boss"
         "CustomText"        "Trigger Sphere"
     }
 }
